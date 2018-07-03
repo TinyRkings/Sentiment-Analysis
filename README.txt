@@ -1,6 +1,6 @@
 ========================================================
-Data Mining：Lab2 Sentiment Classification
-Xianxing Zhang, Shuangsheng Lou
+Data Mining：Sentiment Classification
+Shuangsheng Lou
 23 Oct 2017
 ========================================================
 The program is written in Python 2.6 with numpy package
